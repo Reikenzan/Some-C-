@@ -1,0 +1,6 @@
+C:\Users\TEC38U\documents\visual studio 2013\Projects\WebSite1\WebSite1\bin\WebSite1.dll.config
+C:\Users\TEC38U\documents\visual studio 2013\Projects\WebSite1\WebSite1\bin\WebSite1.dll
+C:\Users\TEC38U\documents\visual studio 2013\Projects\WebSite1\WebSite1\bin\WebSite1.pdb
+C:\Users\TEC38U\documents\visual studio 2013\Projects\WebSite1\WebSite1\obj\Debug\WebSite1.csprojResolveAssemblyReference.cache
+C:\Users\TEC38U\documents\visual studio 2013\Projects\WebSite1\WebSite1\obj\Debug\WebSite1.dll
+C:\Users\TEC38U\documents\visual studio 2013\Projects\WebSite1\WebSite1\obj\Debug\WebSite1.pdb
