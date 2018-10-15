@@ -1,0 +1,10 @@
+c:\users\tec38u\documents\visual studio 2013\Projects\FinalGame\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\bin\Debug\FinalGame.exe
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\bin\Debug\FinalGame.pdb
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\obj\Debug\FinalGame.csprojResolveAssemblyReference.cache
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\obj\Debug\FinalGame.Form1.resources
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\obj\Debug\FinalGame.Properties.Resources.resources
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\obj\Debug\FinalGame.csproj.GenerateResource.Cache
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\obj\Debug\FinalGame.exe
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalGame\FinalGame\obj\Debug\FinalGame.pdb
