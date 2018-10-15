@@ -1,0 +1,14 @@
+c:\users\tec38u\documents\visual studio 2013\Projects\FinalDataBase\FinalDataBase\bin\Debug\FinalDataBase.exe.config
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\bin\Debug\FinalDataBase.exe.config
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\bin\Debug\FinalDataBase.exe
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\bin\Debug\FinalDataBase.pdb
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.Form1.resources
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.Properties.Resources.resources
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.StudentsClasses.resources
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.csproj.GenerateResource.Cache
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.exe
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.pdb
+C:\Workarea\GUI Development\FINAL GUI\FinalDataBase\FinalDataBase\bin\Debug\FinalDataBase.exe.config
+C:\Workarea\GUI Development\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.exe
+C:\Workarea\GUI Development\FINAL GUI\FinalDataBase\FinalDataBase\obj\Debug\FinalDataBase.pdb
