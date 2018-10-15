@@ -1,0 +1,48 @@
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\tec38u\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Projects\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Workarea\GUI Development\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\GUI\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Workarea\GUI Development\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Workarea\GUI Development\PROGRAMS\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Workarea\GUI Development\PROGRAMS\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Workarea\GUI Development\PROGRAMS\Prog 2 -  Claculator\CalculatorEndofClass02222016\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
