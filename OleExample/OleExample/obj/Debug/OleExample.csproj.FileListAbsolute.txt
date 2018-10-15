@@ -1,0 +1,46 @@
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\bin\Debug\OleExample.exe.config
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\obj\Debug\OleExample.csprojResolveAssemblyReference.cache
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\obj\Debug\OleExample.Form1.resources
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\obj\Debug\OleExample.Properties.Resources.resources
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\obj\Debug\OleExample.csproj.GenerateResource.Cache
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\bin\Debug\OleExample.exe
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\bin\Debug\OleExample.pdb
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\obj\Debug\OleExample.exe
+c:\users\tec38u\documents\visual studio 2013\Projects\OleExample\OleExample\obj\Debug\OleExample.pdb
+C:\Users\TEC38U\documents\visual studio 2013\Projects\OleExample\OleExample\obj\Debug\OleExample.ShowDetailForm.resources
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.exe.config
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.exe
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.pdb
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.exe
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.pdb
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.csprojResolveAssemblyReference.cache
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.AddMessage.resources
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.Form1.resources
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.ShowDetailForm.resources
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.Properties.Resources.resources
+E:\GUI\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.csproj.GenerateResource.Cache
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.exe.config
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.exe
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.pdb
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.exe
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.pdb
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.csprojResolveAssemblyReference.cache
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.AddMessage.resources
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.Form1.resources
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.ShowDetailForm.resources
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.Properties.Resources.resources
+C:\Users\TEC25BU.STUDENTS.050\Desktop\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.csproj.GenerateResource.Cache
+E:\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.exe.config
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.exe
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.pdb
+E:\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.exe
+E:\Pro 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.pdb
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.csprojResolveAssemblyReference.cache
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.AddMessage.resources
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.Form1.resources
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.ShowDetailForm.resources
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.Properties.Resources.resources
+E:\Pro 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.csproj.GenerateResource.Cache
+C:\Workarea\GUI Development\PROGRAMS\Prog 3 OleEx\OleExample\OleExample\bin\Debug\OleExample.exe.config
+C:\Workarea\GUI Development\PROGRAMS\Prog 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.exe
+C:\Workarea\GUI Development\PROGRAMS\Prog 3 OleEx\OleExample\OleExample\obj\Debug\OleExample.pdb
