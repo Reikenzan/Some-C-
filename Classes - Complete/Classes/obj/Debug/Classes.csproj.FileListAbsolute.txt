@@ -1,0 +1,53 @@
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes\Classes\bin\Debug\Classes.exe.config
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes\Classes\bin\Debug\Classes.exe
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes\Classes\bin\Debug\Classes.pdb
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes\Classes\obj\Debug\Classes.exe
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes\Classes\obj\Debug\Classes.pdb
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\bin\Debug\Classes.exe.config
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.exe
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.pdb
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\bin\Debug\Classes.exe
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\bin\Debug\Classes.pdb
+D:\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\bin\Debug\Classes.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\bin\Debug\Classes.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\bin\Debug\Classes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+E:\GUI\Visual CSharp StepByStep Examples\Chapter 7\Windows 7\Classes - Complete\Classes\bin\Debug\Classes.exe.config
+E:\GUI\Visual CSharp StepByStep Examples\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.exe
+E:\GUI\Visual CSharp StepByStep Examples\Chapter 7\Windows 7\Classes - Complete\Classes\obj\Debug\Classes.pdb
+E:\GUI\Classes - Complete\Classes\bin\Debug\Classes.exe.config
+E:\GUI\Classes - Complete\Classes\obj\Debug\Classes.exe
+E:\GUI\Classes - Complete\Classes\obj\Debug\Classes.pdb
+E:\GUI\Classes - Complete\Classes\bin\Debug\Classes.exe
+E:\GUI\Classes - Complete\Classes\bin\Debug\Classes.pdb
+E:\GUI\Classes - Complete\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\GUI\Classes - Complete\Classes\bin\Debug\Classes.exe.config
+D:\GUI\Classes - Complete\Classes\obj\Debug\Classes.exe
+D:\GUI\Classes - Complete\Classes\obj\Debug\Classes.pdb
+D:\GUI\Classes - Complete\Classes\bin\Debug\Classes.exe
+D:\GUI\Classes - Complete\Classes\bin\Debug\Classes.pdb
+D:\GUI\Classes - Complete\Classes\bin\Debug\mscorlib.dll
+D:\GUI\Classes - Complete\Classes\bin\Debug\normidna.nlp
+D:\GUI\Classes - Complete\Classes\bin\Debug\normnfc.nlp
+D:\GUI\Classes - Complete\Classes\bin\Debug\normnfd.nlp
+D:\GUI\Classes - Complete\Classes\bin\Debug\normnfkc.nlp
+D:\GUI\Classes - Complete\Classes\bin\Debug\normnfkd.nlp
+D:\GUI\Classes - Complete\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\Classes.exe.config
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\obj\Debug\Classes.exe
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\obj\Debug\Classes.pdb
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\Classes.exe
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\Classes.pdb
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\mscorlib.dll
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\normidna.nlp
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\normnfc.nlp
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\normnfd.nlp
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\normnfkc.nlp
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\normnfkd.nlp
+C:\Workarea\GUI Development\Lab 2 - Classes\Classes - Complete\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Workarea\GUI Development\LABS\Lab 2 - Classes\Classes - Complete\Classes\bin\Debug\Classes.exe.config
+C:\Workarea\GUI Development\LABS\Lab 2 - Classes\Classes - Complete\Classes\obj\Debug\Classes.exe
+C:\Workarea\GUI Development\LABS\Lab 2 - Classes\Classes - Complete\Classes\obj\Debug\Classes.pdb
