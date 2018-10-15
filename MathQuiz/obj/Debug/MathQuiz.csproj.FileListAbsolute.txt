@@ -1,0 +1,42 @@
+c:\users\tec38u\documents\visual studio 2013\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+I:\1Westchester Community College\GUI DEVELOPMENT\Project\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+F:\1Westchester Community College\GUI DEVELOPMENT\Project\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+G:\Projects\MathQuiz\bin\Debug\MathQuiz.exe.config
+G:\Projects\MathQuiz\bin\Debug\MathQuiz.exe
+G:\Projects\MathQuiz\bin\Debug\MathQuiz.pdb
+G:\Projects\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+G:\Projects\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+G:\Projects\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+G:\Projects\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+G:\Projects\MathQuiz\obj\Debug\MathQuiz.exe
+G:\Projects\MathQuiz\obj\Debug\MathQuiz.pdb
+E:\GUI\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+E:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+E:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+E:\GUI\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+E:\GUI\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+E:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+E:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+E:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+E:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Debora UT\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+D:\GUI\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+F:\GUI\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+F:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+F:\GUI\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Workarea\GUI Development\Prog 1 - MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Workarea\GUI Development\Prog 1 - MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Workarea\GUI Development\Prog 1 - MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Workarea\GUI Development\PROGRAMS\Prog 1 - MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Workarea\GUI Development\PROGRAMS\Prog 1 - MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Workarea\GUI Development\PROGRAMS\Prog 1 - MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
