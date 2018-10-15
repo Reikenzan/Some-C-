@@ -1,0 +1,10 @@
+c:\users\tec38u\documents\visual studio 2013\Projects\FinalCalculate\FinalCalculate\bin\Debug\FinalCalculate.exe.config
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\bin\Debug\FinalCalculate.exe.config
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\bin\Debug\FinalCalculate.exe
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\bin\Debug\FinalCalculate.pdb
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\obj\Debug\FinalCalculate.csprojResolveAssemblyReference.cache
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\obj\Debug\FinalCalculate.Form1.resources
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\obj\Debug\FinalCalculate.Properties.Resources.resources
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\obj\Debug\FinalCalculate.csproj.GenerateResource.Cache
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\obj\Debug\FinalCalculate.exe
+C:\Users\Debora UT\Desktop\FINAL GUI\FinalCalculate\FinalCalculate\obj\Debug\FinalCalculate.pdb
